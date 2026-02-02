@@ -1,16 +1,12 @@
-## Hi there 👋
+## hey! here's a little about me:
 
-<!--
-**camila-carrillo/camila-carrillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on frontend and backend features for Code4Community's BCAN project & completing coursework towards a BSCS degree at Northeastern University
 
-- 🔭 I’m currently working on ... projects for JumpStart, C4C's BCAN team, and some personal projects
-- 🌱 I’m currently learning ... TypeScript, React, HTML, CSS
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... Python libraries
-- 📫 How to reach me: ...
-- 😄 Pronouns: ... she/her/hers
-- ⚡ Fun fact: ... I have a twin brother!
--->
+- 🌱 I’m currently working on growing my TypeScript, React, HTML, CSS, Python, Pandas, Nest.js skills
+
+- 📫 How to reach me: www.linkedin.com/in/camila-carrillo-809333385
+
+- 😄 Pronouns: she/her/hers
+
+- ⚡ Fun fact: I have a twin brother!
