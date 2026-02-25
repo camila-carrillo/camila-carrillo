@@ -8,5 +8,3 @@
 - 📫 How to reach me: www.linkedin.com/in/camila-carrillo-809333385
 
 - 😄 Pronouns: she/her/hers
-
-- ⚡ Fun fact: I have a twin brother!
