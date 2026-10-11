@@ -1,10 +1,26 @@
-## hey! here's a little about me:
+## Hello world! I'm Camila.
 
+I'm a current second-year at Northeastern University studying Computer Science. I enjoy problem solving, and I want to build impact-driven products that lie in the intersection of social good and technology.
 
-- 🔭 I’m currently working on frontend and backend features for Code4Community's BCAN project & completing coursework towards a BSCS degree at Northeastern University
+# LinkedIn: www.linkedin.com/in/camila-carrillo-809333385
 
-- 🌱 I’m currently working on growing my TypeScript, React, HTML/CSS, Python, and mySQL skills
+For more...
 
-- 📫 How to reach me: www.linkedin.com/in/camila-carrillo-809333385
-
-- 😄 Pronouns: she/her/hers
+camila = {
+    "pronouns": ["she", "her", "hers"],
+    "education": {
+        "school": "Northeastern University",
+        "major": "Computer Science",
+        "year": 4
+    },
+    "code": [
+        "Python",
+        "Java",
+        "JavaScript",
+        "TypeScript",
+        "HTML",
+        "CSS",
+        "mySQL"
+    ],
+    "currently": "Software Developer @ Code4Community"
+}
