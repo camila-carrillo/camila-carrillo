@@ -1,26 +1,15 @@
-## Hello world! I'm Camila.
+# 👩‍💻 root@your-github-username:~# cat profile.json
 
-I'm a current second-year at Northeastern University studying Computer Science. I enjoy problem solving, and I want to build impact-driven products that lie in the intersection of social good and technology.
-
-# LinkedIn: www.linkedin.com/in/camila-carrillo-809333385
-
-For more...
-
-camila = {
-    "pronouns": ["she", "her", "hers"],
-    "education": {
-        "school": "Northeastern University",
-        "major": "Computer Science",
-        "year": 4
-    },
-    "code": [
-        "Python",
-        "Java",
-        "JavaScript",
-        "TypeScript",
-        "HTML",
-        "CSS",
-        "mySQL"
-    ],
-    "currently": "Software Developer @ Code4Community"
+```json
+{
+  "name": "Camila Carrillo",
+  "currently": "Software Developer @ Code 4 Community (C4C)",
+  "location": "Boston, MA",
+  "languages": ["Java", "Python", "TypeScript", "JavaScript", "HTML/CSS", "mySQL"],
+  "currently_working_on": [
+    "proj-fh — shipping tickets for a C4C client project",
+    "personal webite — a portfolio website"
+  ],
+  "hobbies": ["reading", "listening to music", "working out"]
 }
+```
