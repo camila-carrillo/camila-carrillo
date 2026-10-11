@@ -1,4 +1,4 @@
-# 👩‍💻 root@your-github-username:~# cat profile.json
+# 👩‍💻 root@camila-carrillo:~# cat profile.json
 
 ```json
 {
